@@ -1,0 +1,5 @@
+tk.mybatis工具：通用mapper生成工具，相对于一般mybatis逆向工程生成的代码来说好处是在表变动的时候不需要变动
+参考链接地址：
+https://github.com/abel533/Mapper
+https://blog.csdn.net/isea533/article/details/83045335
+https://github.com/abel533/Mapper/wiki/4.1.mappergenerator
